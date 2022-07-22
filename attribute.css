@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(255, 146, 51);
+}
+h1[title]{
+    color: blue;
+}
+ol[type]{
+    color: crimson;
+}
+input[type]{
+    background-color: blanchedalmond;
+    color: crimson;
+}
+option[value]{
+    background-color: rgb(255, 196, 0);
+    color: white;
+}
+a[href]{
+    color: rgb(37, 255, 59);
+}
