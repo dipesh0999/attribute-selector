@@ -15,7 +15,7 @@ option[value]{
     background-color: rgb(255, 196, 0);
     color: white;
 }
-a[href]{
+a[target]{
     color: rgb(37, 255, 59);
 }
 
